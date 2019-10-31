@@ -79,3 +79,18 @@ TBA
 
 
 ### Social Networks Analysis
+
+[Towards analyzing micro-blogs for detection and classification of real-time intentions]() Web and Social Media 2012
+
+
+[Predicting purchase behaviors from social media]() World Wide Web 2013
+
+
+[Towards linking buyers and sellers: detecting commercial intent on twitter]() World Wide Web 2013
+
+
+[Identifying purchase intent from social posts]() Web and Social Media 2014
+
+
+[Mining user consumption intention from social media using domain adaptive convolutional neural network] AAAI 2015
+
