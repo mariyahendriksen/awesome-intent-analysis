@@ -8,7 +8,7 @@ TBA
 
 
 ### Purchase Behaviour Analysis
-
+[Understanding Behaviors that Lead to Purchasing: A Case Study of Pinterest](https://cs.stanford.edu/people/jure/pubs/pinterest-kdd16.pdf), KDD 2016
 
 ### Purchase Intent Prediction
 
