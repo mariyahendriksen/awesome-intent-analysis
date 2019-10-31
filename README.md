@@ -9,6 +9,7 @@ TBA
 
 ### Purchase Behaviour Analysis
 [Going shopping: key determinants of shopping behaviors and motivations](https://www.emerald.com/insight/content/doi/10.1108/09590559910268499/full/pdf?title=going-shopping-key-determinants-of-shopping-behaviors-and-motivations)
+
 [Understanding Behaviors that Lead to Purchasing: A Case Study of Pinterest](https://cs.stanford.edu/people/jure/pubs/pinterest-kdd16.pdf), KDD 2016
 
 ### Purchase Intent Prediction
