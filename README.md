@@ -95,6 +95,7 @@ TBA
 [Mining user consumption intention from social media using domain adaptive convolutional neural network] AAAI 2015
 
 
+
 ### Intent Representation Learning
 
-[Generic Intent Representation in Web Search](https://dl.acm.org/citation.cfm?id=3331198)
+[Generic Intent Representation in Web Search](https://dl.acm.org/citation.cfm?id=3331198) SIGIR 2019
