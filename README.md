@@ -1,6 +1,21 @@
 # Reading List for Topics in Intent Analysis
 By [Mariya Hendriksen](https://mariyahendriksen.github.io./) (m.hendriksen@uva.nl) [Information and Language Processing Systems](https://ilps.science.uva.nl/), [University of Amsterdam](https://www.uva.nl/). If there are any areas, papers, and datasets I missed, please let me know!
 
+[TODO]
+SIGIR 2018
+SIGIR 2017
+SIGIR 2016
+
+KDD:
+2019
+2018
+2017
+2016
+
+WWW:
+2019:
+2018:
+2017:
 
 ## Table of Contents
 
