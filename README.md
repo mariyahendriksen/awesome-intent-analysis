@@ -44,5 +44,38 @@ TBA
 
 ### Purchase Intent Prediction
 
+[Using segmentation to improve sales forecasts based on purchase intent: Which” intenders” actually buy?] Journal ofMarketing Research, 1992
+
+
+[Predictors of online buying behavior] Communications of the ACM 1999
+
+
+[Web retailing adoption: exploring the nature of internet users web retailing behaviour] Journal of Retailing and Consumer Services 2003
+
+
+[Combination of multiple classifiers for the customer’s purchase behavior prediction] Decision Support Systems 2003
+
+
+[Modeling purchase behavior at an e-commerce web site: A task-completion approach] Journal of Marketing Research 2004
+
+
+[A prediction model for the purchase probability of anonymous customers to support real time web marketing: a case study] Expert Systems with Applications 2004
+
+
+[Predicting online purchase intentions for clothing products] European Journal ofMarketing 2004
+
+
+[Automatic identification of user goals in web search] World Wide Web 2005
+
+
+[Predicting online-purchasing behaviour] European Journal of Operational Research, 2005
+
+
+[Learning user purchase intent from user-centric data] Advances in Knowledge Discovery and Data Mining 2008
+
+
+[Ready to buy or just browsing?: detecting web searcher goals from interaction data] SIGIR 2010
+
+
 
 ### Social Networks Analysis
