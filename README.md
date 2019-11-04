@@ -21,8 +21,8 @@ WWW:
 
 TBA
 
-
-### Purchase Behaviour Analysis
+### Purchase Intent
+#### Purchase Behaviour Analysis
 [Going shopping: key determinants of shopping behaviors and motivations](https://www.emerald.com/insight/content/doi/10.1108/09590559910268499/full/pdf?title=going-shopping-key-determinants-of-shopping-behaviors-and-motivations), International Journal of Retail & Distribution Management 1999
 
 [Perceived security and World Wide Web purchase intention](https://www.emerald.com/insight/content/doi/10.1108/02635570110390071/full/pdf?title=perceived-security-and-world-wide-web-purchase-intention), Industrial Management & Data Systems 2001
@@ -57,7 +57,7 @@ TBA
 
 [Understanding Behaviors that Lead to Purchasing: A Case Study of Pinterest](https://cs.stanford.edu/people/jure/pubs/pinterest-kdd16.pdf), KDD 2016
 
-### Purchase Intent Prediction
+#### Purchase Intent Prediction
 
 [Using segmentation to improve sales forecasts based on purchase intent: Which” intenders” actually buy?] Journal ofMarketing Research, 1992
 
