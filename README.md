@@ -19,7 +19,7 @@ WWW:
 
 ## Table of Contents
 
-TBA
+* [Purchase Intent](#purchase-intent)
 
 ### Purchase Intent
 #### Purchase Behaviour Analysis
