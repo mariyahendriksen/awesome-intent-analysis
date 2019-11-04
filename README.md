@@ -23,6 +23,9 @@ WWW:
   * [Purchase Behaviour Analysis](#Purchase-Behaviour-Analysis)
   * [Purchase Intent Prediction](#Purchase-Intent-Prediction)
 * [Social Networks Analysis for Intent Identification](#Social-Networks-Analysis-for-Intent-Identification)
+* [Intent Representation Learning](#Intent-Representation-Learning)
+* [Privacy](#privacy)
+* [Intent for Recommendation](#Intent-for-Recommendation)
 
 ### Purchase Intent
 #### Purchase Behaviour Analysis
