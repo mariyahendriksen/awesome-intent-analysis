@@ -119,3 +119,7 @@ TBA
 
 ## Privacy
 [Intent-aware Query Obfuscation for Privacy Protection in Personalized Web Search](http://www.cs.virginia.edu/~hw5x/paper/SIGIR2018-IQP.pdf)
+
+
+## Intent for Recommendation
+[Towards Intent-Aware Contextual Music Recommendation: Initial Experiments](https://dl.acm.org/citation.cfm?id=3210154)
