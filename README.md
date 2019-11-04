@@ -109,6 +109,10 @@ WWW:
 [Turning Clicks into Purchases: Revenue Optimization for Product Search in E-Commerce](), SIGIR 2018
 
 
+#### Applications
+[Modeling Mobile User Actions for Purchase Recommendation using Deep Memory Networks](), SIGIR 2018
+
+
 
 
 ### Social Networks Analysis for Intent Identification
