@@ -27,6 +27,9 @@ WWW:
 * [Privacy](#privacy)
 * [Intent for Recommendation](#Intent-for-Recommendation)
 
+
+
+
 ### Purchase Intent
 #### Purchase Behaviour Analysis
 [Going shopping: key determinants of shopping behaviors and motivations](https://www.emerald.com/insight/content/doi/10.1108/09590559910268499/full/pdf?title=going-shopping-key-determinants-of-shopping-behaviors-and-motivations), International Journal of Retail & Distribution Management 1999
@@ -63,6 +66,8 @@ WWW:
 
 [Understanding Behaviors that Lead to Purchasing: A Case Study of Pinterest](https://cs.stanford.edu/people/jure/pubs/pinterest-kdd16.pdf), KDD 2016
 
+
+
 #### Purchase Intent Prediction
 
 [Using segmentation to improve sales forecasts based on purchase intent: Which” intenders” actually buy?] Journal ofMarketing Research, 1992
@@ -98,6 +103,13 @@ WWW:
 [Ready to buy or just browsing?: detecting web searcher goals from interaction data] SIGIR 2010
 
 
+[Predicting Intent Using Activity Logs: How Goal Specificity and Temporal Range Affect User Behavior](https://dl.acm.org/citation.cfm?id=3054198), WWW 2017
+
+
+[Turning Clicks into Purchases: Revenue Optimization for Product Search in E-Commerce](), SIGIR 2018
+
+
+
 
 ### Social Networks Analysis for Intent Identification
 
@@ -117,9 +129,11 @@ WWW:
 
 
 
+
 ### Intent Representation Learning
 
 [Generic Intent Representation in Web Search](https://dl.acm.org/citation.cfm?id=3331198) SIGIR 2019
+
 
 
 
@@ -127,6 +141,8 @@ WWW:
 [Intent-aware Query Obfuscation for Privacy Protection in Personalized Web Search](http://www.cs.virginia.edu/~hw5x/paper/SIGIR2018-IQP.pdf), SIGIR 2018
 
 [Hide-n-Seek: An Intent-aware Privacy Protection Plugin for Personalized Web Search](https://www.cs.virginia.edu/~hw5x/paper/SIGIR2018-HnS.pdf), SIGIR 2018
+
+
 
 
 ## Intent for Recommendation
