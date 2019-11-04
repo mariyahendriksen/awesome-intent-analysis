@@ -1,4 +1,4 @@
-# Reading List for Topics in Intent Analysis
+# Reading List for Topics in Intent Analysis (incl. Purchasing Intent)
 By [Mariya Hendriksen](https://mariyahendriksen.github.io./) (m.hendriksen@uva.nl) [Information and Language Processing Systems](https://ilps.science.uva.nl/), [University of Amsterdam](https://www.uva.nl/). If there are any areas, papers, and datasets I missed, please let me know!
 
 [TODO]
@@ -93,7 +93,7 @@ TBA
 
 
 
-### Social Networks Analysis
+### Social Networks Analysis for Intent Identification
 
 [Towards analyzing micro-blogs for detection and classification of real-time intentions]() Web and Social Media 2012
 
@@ -118,8 +118,10 @@ TBA
 
 
 ## Privacy
-[Intent-aware Query Obfuscation for Privacy Protection in Personalized Web Search](http://www.cs.virginia.edu/~hw5x/paper/SIGIR2018-IQP.pdf)
+[Intent-aware Query Obfuscation for Privacy Protection in Personalized Web Search](http://www.cs.virginia.edu/~hw5x/paper/SIGIR2018-IQP.pdf), SIGIR 2018
+
+[Hide-n-Seek: An Intent-aware Privacy Protection Plugin for Personalized Web Search](https://www.cs.virginia.edu/~hw5x/paper/SIGIR2018-HnS.pdf), SIGIR 2018
 
 
 ## Intent for Recommendation
-[Towards Intent-Aware Contextual Music Recommendation: Initial Experiments](https://dl.acm.org/citation.cfm?id=3210154)
+[Towards Intent-Aware Contextual Music Recommendation: Initial Experiments](https://dl.acm.org/citation.cfm?id=3210154), SIGIR 2018
