@@ -37,6 +37,8 @@ WSDM:
 * [Intent for Recommendation](#Intent-for-Recommendation)
 
 
+### General Papers
+[Survey and evaluation of query intent detection methods](), WCSD 2009
 
 
 ### Purchase Intent
@@ -150,13 +152,17 @@ WSDM:
 
 
 
-## Privacy
+### Privacy
 [Intent-aware Query Obfuscation for Privacy Protection in Personalized Web Search](http://www.cs.virginia.edu/~hw5x/paper/SIGIR2018-IQP.pdf), SIGIR 2018
 
 [Hide-n-Seek: An Intent-aware Privacy Protection Plugin for Personalized Web Search](https://www.cs.virginia.edu/~hw5x/paper/SIGIR2018-HnS.pdf), SIGIR 2018
 
 
 
+### Applications
+#### Intent for Recommendation
 
-## Intent for Recommendation
 [Towards Intent-Aware Contextual Music Recommendation: Initial Experiments](https://dl.acm.org/citation.cfm?id=3210154), SIGIR 2018
+
+#### Intents for Evaluation
+[Evaluating Search Result Diversity using Intent Hierarchies](), SIGIR 2016
