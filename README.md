@@ -18,6 +18,14 @@ WWW:
 * 2017
 * 2016
 
+
+WSDM:
+* 2019
+* 2018
+* 2017
+* 2016
+
+
 ## Table of Contents
 
 * [Purchase Intent](#purchase-intent)
