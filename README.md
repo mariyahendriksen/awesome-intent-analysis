@@ -28,6 +28,7 @@ WSDM:
 
 ## Table of Contents
 
+* [General Papers](#General-Papers)
 * [Purchase Intent](#purchase-intent)
   * [Purchase Behaviour Analysis](#Purchase-Behaviour-Analysis)
   * [Purchase Intent Prediction](#Purchase-Intent-Prediction)
