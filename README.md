@@ -4,13 +4,13 @@ By [Mariya Hendriksen](https://mariyahendriksen.github.io./) (m.hendriksen@uva.n
 [TODO]
 * ~~SIGIR 2018~~
 * SIGIR 2017
-* SIGIR 2016
+* ~~SIGIR 2016~~
 
 KDD:
 * 2019
 * 2018
 * 2017
-* 2016
+* ~~2016~~
 
 WWW:
 * 2019:
@@ -29,21 +29,20 @@ WSDM:
 ## Table of Contents
 
 * [General Papers](#General-Papers)
-* [Purchase Intent](#purchase-intent)
-  * [Purchase Behaviour Analysis](#Purchase-Behaviour-Analysis)
-  * [Purchase Intent Prediction](#Purchase-Intent-Prediction)
+* [Behaviour Analysis](#Behaviour-Analysis)
+* [Intent Modelling](#Intent-Modelling)
 * [Social Networks Analysis for Intent Identification](#Social-Networks-Analysis-for-Intent-Identification)
 * [Intent Representation Learning](#Intent-Representation-Learning)
 * [Privacy](#privacy)
 * [Intent for Recommendation](#Intent-for-Recommendation)
+* [Cross-Device] (#Cross-Device)
 
 
-### General Papers
+### Overview Papers
 [Survey and evaluation of query intent detection methods](), WCSD 2009
 
 
-### Purchase Intent
-#### Purchase Behaviour Analysis
+### Behaviour Analysis
 [Going shopping: key determinants of shopping behaviors and motivations](https://www.emerald.com/insight/content/doi/10.1108/09590559910268499/full/pdf?title=going-shopping-key-determinants-of-shopping-behaviors-and-motivations), International Journal of Retail & Distribution Management 1999
 
 [Perceived security and World Wide Web purchase intention](https://www.emerald.com/insight/content/doi/10.1108/02635570110390071/full/pdf?title=perceived-security-and-world-wide-web-purchase-intention), Industrial Management & Data Systems 2001
@@ -82,7 +81,7 @@ WSDM:
 
 
 
-#### Purchase Intent Prediction
+### Intent Modelling
 
 [Using segmentation to improve sales forecasts based on purchase intent: Which” intenders” actually buy?] Journal ofMarketing Research, 1992
 
@@ -117,14 +116,16 @@ WSDM:
 [Ready to buy or just browsing?: detecting web searcher goals from interaction data] SIGIR 2010
 
 
+[DeepIntent: Learning Attentions for Online Advertising with Recurrent Neural Networks](http://delivery.acm.org/10.1145/2940000/2939759/p1295-zhai.pdf?ip=146.50.68.28&id=2939759&acc=ACTIVE%20SERVICE&key=0C390721DC3021FF%2E86041C471C98F6DA%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1573122989_5b4f2030b77c9b2748bd355b2b8861f4), KDD 2016
+
+
 [Predicting Intent Using Activity Logs: How Goal Specificity and Temporal Range Affect User Behavior](https://dl.acm.org/citation.cfm?id=3054198), WWW 2017
 
 
 [Turning Clicks into Purchases: Revenue Optimization for Product Search in E-Commerce](), SIGIR 2018
 
 
-#### Applications
-[Modeling Mobile User Actions for Purchase Recommendation using Deep Memory Networks](), SIGIR 2018
+[Log2Intent: Towards Interpretable User Modeling via Recurrent Semantics Memory Unit](http://delivery.acm.org/10.1145/3340000/3330889/p1055-tao.pdf?ip=146.50.68.28&id=3330889&acc=ACTIVE%20SERVICE&key=0C390721DC3021FF%2E86041C471C98F6DA%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1573137152_65f63430a381f69b17b300400b78ed7f), KDD 2019
 
 
 
@@ -164,6 +165,12 @@ WSDM:
 
 ### Applications
 #### Intent for Recommendation
+
+[Contextual Intent Tracking for Personal Assistants](https://www.kdd.org/kdd2016/papers/files/adf0295-sunA.pdf), KDD 2016
+
+
+[Modeling Mobile User Actions for Purchase Recommendation using Deep Memory Networks](), SIGIR 2018
+
 
 [Towards Intent-Aware Contextual Music Recommendation: Initial Experiments](https://dl.acm.org/citation.cfm?id=3210154), SIGIR 2018
 
