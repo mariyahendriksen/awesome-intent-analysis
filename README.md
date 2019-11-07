@@ -35,7 +35,7 @@ WSDM:
 * [Intent Representation Learning](#Intent-Representation-Learning)
 * [Privacy](#privacy)
 * [Intent for Recommendation](#Intent-for-Recommendation)
-* [Cross-Device] (#Cross-Device)
+* [Cross-Device](#Cross-Device)
 
 
 ### Overview Papers
