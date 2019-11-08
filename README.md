@@ -15,11 +15,11 @@ By [Mariya Hendriksen](https://mariyahendriksen.github.io./) (m.hendriksen@uva.n
 * [Cross-Device](#Cross-Device)
 
 
-### Overview Papers
+## Overview Papers
 [Survey and evaluation of query intent detection methods](), WCSD 2009
 
 
-### Behaviour Analysis
+## Behaviour Analysis
 [Going shopping: key determinants of shopping behaviors and motivations](https://www.emerald.com/insight/content/doi/10.1108/09590559910268499/full/pdf?title=going-shopping-key-determinants-of-shopping-behaviors-and-motivations), International Journal of Retail & Distribution Management 1999
 
 [Perceived security and World Wide Web purchase intention](https://www.emerald.com/insight/content/doi/10.1108/02635570110390071/full/pdf?title=perceived-security-and-world-wide-web-purchase-intention), Industrial Management & Data Systems 2001
@@ -60,13 +60,13 @@ By [Mariya Hendriksen](https://mariyahendriksen.github.io./) (m.hendriksen@uva.n
 [User Intent, Behaviour, and Perceived Satisfaction in Product Search](), WSDM 2018
 
 
-#### Image Search
+### Image Search
 
 [The Influence of Image Search Intents on User Behavior and Satisfaction](), WSDM 2019
 
 
 
-### Intent Modelling
+## Intent Modelling
 
 [Using segmentation to improve sales forecasts based on purchase intent: Which” intenders” actually buy?] Journal ofMarketing Research, 1992
 
@@ -129,7 +129,7 @@ By [Mariya Hendriksen](https://mariyahendriksen.github.io./) (m.hendriksen@uva.n
 
 
 
-### Query Analysis
+## Query Analysis
 [Mining User Intentions from Medical Queries: A Neural Network Based Heterogeneous Jointly Modeling Approach](), WWW 2016
 
 [Identifying Web Queries with Question Intent](), WWW 2016
@@ -138,7 +138,7 @@ By [Mariya Hendriksen](https://mariyahendriksen.github.io./) (m.hendriksen@uva.n
 
 
 
-### Social Networks Analysis for Intent Identification
+## Social Networks Analysis for Intent Identification
 
 [Towards analyzing micro-blogs for detection and classification of real-time intentions]() Web and Social Media 2012
 
@@ -160,22 +160,22 @@ By [Mariya Hendriksen](https://mariyahendriksen.github.io./) (m.hendriksen@uva.n
 
 
 
-### Intent Representation Learning
+## Intent Representation Learning
 
 [Generic Intent Representation in Web Search](https://dl.acm.org/citation.cfm?id=3331198) SIGIR 2019
 
 
 
 
-### Privacy
+## Privacy
 [Intent-aware Query Obfuscation for Privacy Protection in Personalized Web Search](http://www.cs.virginia.edu/~hw5x/paper/SIGIR2018-IQP.pdf), SIGIR 2018
 
 [Hide-n-Seek: An Intent-aware Privacy Protection Plugin for Personalized Web Search](https://www.cs.virginia.edu/~hw5x/paper/SIGIR2018-HnS.pdf), SIGIR 2018
 
 
 
-### Applications
-#### Intent for Recommendation
+## Applications
+### Intent for Recommendation
 
 [Contextual Intent Tracking for Personal Assistants](https://www.kdd.org/kdd2016/papers/files/adf0295-sunA.pdf), KDD 2016
 
@@ -196,26 +196,26 @@ By [Mariya Hendriksen](https://mariyahendriksen.github.io./) (m.hendriksen@uva.n
 
 
 
-#### Intents for Evaluation
+### Intents for Evaluation
 [Evaluating Search Result Diversity using Intent Hierarchies](), SIGIR 2016
 
 
-#### Intents for Advertisment
+### Intents for Advertisment
 
 [TV Advertisement Scheduling by Learning Expert Intentions](), KDD 2019
 
 
-#### Search
+### Search
 
 [Learning Intent to Book Metrics for Airbnb Search](), WWW 2019
 
 
-#### Retargeting
+### Retargeting
 
 [Predicting Online Purchase Conversion for Retargeting](), WSDM 2017
 
 
-#### Speech
+### Speech
 
 [Multi-Task Deep Learning for User Intention Understanding in Speech Interaction Systems](), AAAI 2017
 
