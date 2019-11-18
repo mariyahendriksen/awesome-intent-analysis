@@ -98,7 +98,7 @@ By [Mariya Hendriksen](https://mariyahendriksen.github.io./) (m.hendriksen@uva.n
 [Learning user purchase intent from user-centric data] Advances in Knowledge Discovery and Data Mining 2008
 
 
-[Ready to buy or just browsing?: detecting web searcher goals from interaction data] SIGIR 2010
+[Ready to buy or just browsing?: detecting web searcher goals from interaction data](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.169.5079&rep=rep1&type=pdf) SIGIR 2010
 
 
 [Modeling Human Understanding of Complex Intentional Action with a Bayesian Nonparametric Subgoal Model](), AAAI 2016
