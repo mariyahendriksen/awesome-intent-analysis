@@ -22,6 +22,8 @@ By [Mariya Hendriksen](https://mariyahendriksen.github.io./) (m.hendriksen@uva.n
 ## Shopping Behaviour Analysis
 [Going shopping: key determinants of shopping behaviors and motivations](https://www.emerald.com/insight/content/doi/10.1108/09590559910268499/full/pdf?title=going-shopping-key-determinants-of-shopping-behaviors-and-motivations), International Journal of Retail & Distribution Management 1999
 
+[Predictors of online buying behavior] Communications of the ACM 1999
+
 [Perceived security and World Wide Web purchase intention](https://www.emerald.com/insight/content/doi/10.1108/02635570110390071/full/pdf?title=perceived-security-and-world-wide-web-purchase-intention), Industrial Management & Data Systems 2001
 
 
@@ -29,6 +31,9 @@ By [Mariya Hendriksen](https://mariyahendriksen.github.io./) (m.hendriksen@uva.n
 
 
 [Influences on the intent to make internet purchases] Internet Research 2002
+
+
+[Web retailing adoption: exploring the nature of internet users web retailing behaviour] Journal of Retailing and Consumer Services 2003
 
 
 [Buying or browsing? an exploration of shopping orientations and online purchase intention] European Journal of Marketing 2003
@@ -69,12 +74,6 @@ By [Mariya Hendriksen](https://mariyahendriksen.github.io./) (m.hendriksen@uva.n
 ## Shopping Intent Modelling
 
 [Using segmentation to improve sales forecasts based on purchase intent: Which” intenders” actually buy?] Journal ofMarketing Research, 1992
-
-
-[Predictors of online buying behavior] Communications of the ACM 1999
-
-
-[Web retailing adoption: exploring the nature of internet users web retailing behaviour] Journal of Retailing and Consumer Services 2003
 
 
 [Combination of multiple classifiers for the customer’s purchase behavior prediction] Decision Support Systems 2003
