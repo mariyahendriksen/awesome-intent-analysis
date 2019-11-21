@@ -5,7 +5,7 @@ By [Mariya Hendriksen](https://mariyahendriksen.github.io./) (m.hendriksen@uva.n
 ## Table of Contents
 
 * [General Papers](#General-Papers)
-* [Behaviour Analysis](#Behaviour-Analysis)
+* [Shopping Behaviour Analysis](#Shopping-Behaviour-Analysis)
 * [Intent Modelling](#Intent-Modelling)
 * [Query Analysis](#Query-Analysis)
 * [Social Networks Analysis for Intent Identification](#Social-Networks-Analysis-for-Intent-Identification)
@@ -19,7 +19,7 @@ By [Mariya Hendriksen](https://mariyahendriksen.github.io./) (m.hendriksen@uva.n
 [Survey and evaluation of query intent detection methods](), WCSD 2009
 
 
-## Behaviour Analysis
+## Shopping Behaviour Analysis
 [Going shopping: key determinants of shopping behaviors and motivations](https://www.emerald.com/insight/content/doi/10.1108/09590559910268499/full/pdf?title=going-shopping-key-determinants-of-shopping-behaviors-and-motivations), International Journal of Retail & Distribution Management 1999
 
 [Perceived security and World Wide Web purchase intention](https://www.emerald.com/insight/content/doi/10.1108/02635570110390071/full/pdf?title=perceived-security-and-world-wide-web-purchase-intention), Industrial Management & Data Systems 2001
@@ -66,7 +66,7 @@ By [Mariya Hendriksen](https://mariyahendriksen.github.io./) (m.hendriksen@uva.n
 
 
 
-## Intent Modelling
+## Shopping Intent Modelling
 
 [Using segmentation to improve sales forecasts based on purchase intent: Which” intenders” actually buy?] Journal ofMarketing Research, 1992
 
