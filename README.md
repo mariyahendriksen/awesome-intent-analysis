@@ -52,14 +52,9 @@ By [Mariya Hendriksen](https://mariyahendriksen.github.io./) (m.hendriksen@uva.n
 
 
 [Age, gender and income: do they really moderate online shopping behaviour?] Online Information Review 2011
- 
-
-[How effective is targeted advertising?] WWW 2012
 
 
 [Understanding Behaviors that Lead to Purchasing: A Case Study of Pinterest](https://cs.stanford.edu/people/jure/pubs/pinterest-kdd16.pdf), KDD 2016
-
-[Extracting Information Seeking Intentions for Web Search Sessions](http://delivery.acm.org/10.1145/2920000/2914746/p841-mitsui.pdf?ip=146.50.68.28&id=2914746&acc=ACTIVE%20SERVICE&key=0C390721DC3021FF%2E86041C471C98F6DA%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1573122523_85ee28133db12304c10e1d2068d0375f), SIGIR 2016
 
 
 [User Intent, Behaviour, and Perceived Satisfaction in Product Search](), WSDM 2018
