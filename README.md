@@ -89,6 +89,9 @@ By [Mariya Hendriksen](https://mariyahendriksen.github.io./) (m.hendriksen@uva.n
 [Predicting online-purchasing behaviour] European Journal of Operational Research, 2005
 
 
+[Detecting Online Commercial Intention](https://dl.acm.org/citation.cfm?id=1135902), WWW 2006
+
+
 [Learning user purchase intent from user-centric data] Advances in Knowledge Discovery and Data Mining 2008
 
 
