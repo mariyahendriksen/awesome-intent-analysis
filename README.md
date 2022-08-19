@@ -1,5 +1,5 @@
 # Reading List for Topics in Intent Analysis (incl. Purchasing Intent)
-By [Mariya Hendriksen](https://mariyahendriksen.github.io./) (m.hendriksen@uva.nl) [Information and Language Processing Systems](https://ilps.science.uva.nl/), [University of Amsterdam](https://www.uva.nl/). If there are any areas, papers, and datasets I missed, please let me know!
+By [Mariya Hendriksen](https://mariyahendriksen.github.io./) (m.hendriksen@uva.nl) [Information and Language Processing Systems](https://ilps.science.uva.nl/), [University of Amsterdam](https://www.uva.nl/). If there are any areas, papers, and datasets I missed, sned a PR or open an issue!
 
 
 ## Table of Contents
