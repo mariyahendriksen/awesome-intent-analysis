@@ -4,7 +4,7 @@ By [Mariya Hendriksen](https://mariyahendriksen.github.io./) (m.hendriksen@uva.n
 
 ## Table of Contents
 
-* [General Papers](#General-Papers)
+* [Surveys](#Surveys)
 * [Shopping Behaviour Analysis](#Shopping-Behaviour-Analysis)
 * [Intent Modelling](#Intent-Modelling)
 * [Query Analysis](#Query-Analysis)
@@ -15,7 +15,7 @@ By [Mariya Hendriksen](https://mariyahendriksen.github.io./) (m.hendriksen@uva.n
 * [Cross-Device](#Cross-Device)
 
 
-## Overview Papers
+## Surveys
 [Survey and evaluation of query intent detection methods](), WCSD 2009
 
 
