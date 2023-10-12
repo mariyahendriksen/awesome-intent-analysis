@@ -219,7 +219,9 @@ By [Mariya Hendriksen](https://mariyahendriksen.github.io./) (m.hendriksen@uva.n
 
 
 
-## Cross-Device
+## Cross-Device Search
+
+[Analyzing and Predicting Purchase Intent in E-commerce: Anonymous vs. Identified Customers](https://mariyahendriksen.github.io/files/sigir20.pdf), SIGIR 2020
 
 [Cross-Device User Linking: URL, Session, Visiting Time, and Device-log Embedding](), SIGIR 2017
 
