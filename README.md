@@ -1,5 +1,5 @@
 # Awesome Intent Analysis
-The list curated by [Mariya Hendriksen](https://mariyahendriksen.github.io./) (m.hendriksen@uva.nl) [IRLab](https://irlab.science.uva.nl/), [University of Amsterdam](https://www.uva.nl/). If there are any areas, papers, and datasets I missed, sned a PR or open an issue!
+The list curated by [Mariya Hendriksen](https://mariyahendriksen.github.io./) (m.hendriksen@uva.nl) [IRLab](https://irlab.science.uva.nl/), [University of Amsterdam](https://www.uva.nl/). If there are any areas, papers, and datasets I missed, create a PR or open an issue!
 
 
 ## Table of Contents
